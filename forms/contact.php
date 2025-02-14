@@ -20,7 +20,7 @@
     'host' => 'smtp.gmail.com',
     'username' => 'tech.start256@gmail.com',
     'password' => 'mddr yytf gjui xxmt',
-    'port' => '465'
+    'port' => '587'
   );
 
   $contact->add_message( $_POST['name'], 'From');
